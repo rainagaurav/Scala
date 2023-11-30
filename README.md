@@ -1,5 +1,3 @@
-
-TEST
 <div align="center">
 <!-- Title: -->
   <a href="https://github.com/TheAlgorithms/">
@@ -18,7 +16,7 @@ TEST
     <img src="https://img.shields.io/badge/Chat-Gitter-ff69b4.svg?label=Chat&logo=gitter&style=flat-square" height="20" alt="Gitter chat">
   </a>
 <!-- Short description: -->
-  <h3>All algorithms implemented in Scala - for education</h3>
+  <h3>All algorithms implemented in Scala - for education purposes</h3>
 </div>
 
 Implementations are for learning purposes only. As they may be less efficient than the implementations in the Scala
